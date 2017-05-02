@@ -15,4 +15,7 @@ public class MainActivity {
 		System.out.println("Ich bin Marko!");
 		System.out.println("Ich bin David!");
 	}
+	private int calculateSomething(int a, int b) {
+		return a+b;
+	}
 }
