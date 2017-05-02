@@ -4,7 +4,7 @@ public class MainActivity {
 	
 	public MainActivity(int a, int b){
 		this.a = a;
-		this.b = b;
+		this.b = b*2;
 	}
 	public void cooleMethode(int mega, String ultra) {
 
