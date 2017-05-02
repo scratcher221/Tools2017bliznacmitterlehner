@@ -1,6 +1,7 @@
 public class MainActivity {
 
 	public int a, b;
+	private static int 17;
 	
 	public MainActivity(int a, int b){
 		this.a = a;
