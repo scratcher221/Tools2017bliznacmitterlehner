@@ -13,7 +13,6 @@ public class MainActivity {
 	}
 	public void cooleMethode2(int mega, String ultra) {
 		System.out.println("Ich bin Marko!");
+		System.out.println("Ich bin David!");
 	}
-
-
 }
