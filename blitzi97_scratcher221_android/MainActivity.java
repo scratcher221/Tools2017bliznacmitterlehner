@@ -9,5 +9,9 @@ public class MainActivity {
 	public void cooleMethode(int mega, String ultra) {
 
 	}
+	public void cooleMethode2(int mega, String ultra) {
+
+	}
+
 
 }
