@@ -6,5 +6,8 @@ public class MainActivity {
 		this.a = a;
 		this.b = b;
 	}
+	public void cooleMethode(int mega, String ultra) {
+
+	}
 
 }
