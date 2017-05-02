@@ -16,5 +16,6 @@ public class MainActivity {
 		System.out.println("Ich bin David!");
 		mega = 999;
 		ultra = "blabla";
+		System.out.println("java datei geändert!");
 	}
 }
