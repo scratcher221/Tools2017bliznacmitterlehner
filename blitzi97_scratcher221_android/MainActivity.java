@@ -12,7 +12,7 @@ public class MainActivity {
 		System.out.println(ultra);
 	}
 	public void cooleMethode2(int mega, String ultra) {
-
+		System.out.println("Ich bin David!");
 	}
 
 
